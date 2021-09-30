@@ -14,4 +14,4 @@ function calcSurface (a, b) {
     return a * b;
     
 }
-console.log ('The surface of the rectangle is '+ calcSurface(a, b));
+console.log (calcSurface(a, b));
